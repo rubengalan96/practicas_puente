@@ -1,0 +1,31 @@
+
+h1 {
+    color: #f37474;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+        background-color: hsl(199, 75%, 78%);
+        color: hsl(34, 92%, 47%);
+        font-size: 200%;
+        text-decoration: underline;
+
+}
+p {
+    background-color: hsl(180, 82%, 63%);
+}
+
+body {
+    background-color: hsl(133, 46%, 79%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+footer{
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+    font-style: italic;
+    font-size: smaller;
+}

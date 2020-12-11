@@ -1,0 +1,42 @@
+body {
+    background-color: #c6d9ee;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: right;
+}
+
+h2 {
+    font-size: 30px;
+    font-variant: small-caps;
+}
+
+span.naranjito {
+    color: rgb(214, 116, 46);
+    font-weight: bold;
+}
+
+span.rojo {
+    color: red;
+    font-family: "Comic Sans", cursive; 
+    /* He tenido que mirar el código fuente para dejar lo de Comic Sans igual, no entiendo muy bien como funciona lo
+    de la coma y lo de cursive después del tipo de letra. */
+}
+
+time {
+    color: rgb(236, 159, 65);
+}
+
+footer {
+    text-align: center;
+    font-size: smaller;
+}
+span.cursiva{
+    font-style: oblique;
+    background-color: white;
+    color: green;
+
+}

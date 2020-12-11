@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(199, 70%, 84%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    background-color: hsl(198, 43%, 52%);
+    font-size: 32px;
+}
+
+h3 {
+    background-color: hsl(198, 50%, 65%);
+    color: white;
+    font-size: 24px;
+}
+
+blockquote {
+    font-style: oblique;
+}
+
+pre {
+    background-color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+footer {
+    font-size: smaller;
+    text-align: right;
+}

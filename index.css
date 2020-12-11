@@ -1,0 +1,35 @@
+img.verde{
+    width: 100px;
+    height: 100px;
+}
+
+span.verde{
+    background-color: green;
+    color: white;
+}
+
+span.rojo{
+    background-color: red;
+    color: white;
+}
+
+span.azul{
+    background-color: blue;
+    color: white;
+}
+
+img.rojo{
+    width: 120px;
+    height: 120px;
+
+}
+
+img.azul{
+    width: 120px;
+    height: 120px;
+
+}
+body{
+    text-align: center;
+    background-color: rgb(194, 194, 240);
+}
